@@ -6,6 +6,23 @@ body {
 th {
     background-color: steelblue;
 }
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    font-size: 14px;
+}
+table, th, td{
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+}
+h1, footer {
+    text-align: center;
+}
 .tags span {
     font-family: "Courier New", monospace;
     background-color: royalblue;
