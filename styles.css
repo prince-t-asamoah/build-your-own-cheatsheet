@@ -1,6 +1,12 @@
 body {
     font-family: Helvetica, sans-serif;
+    color: white;
+    background-color: midnightblue;
 }
-.tags {
+th {
+    background-color: steelblue;
+}
+.tags span {
     font-family: "Courier New", monospace;
+    background-color: royalblue;
 }
